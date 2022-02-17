@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Depositsignlogin>testDS</Depositsignlogin>
+  <Depositsignpass>testDS</Depositsignpass>
+  <Keyname>93fd72ec-55f6-4985-8216-6eb112d99508</Keyname>
+  <Keypassw>123</Keypassw>
+</Param>
